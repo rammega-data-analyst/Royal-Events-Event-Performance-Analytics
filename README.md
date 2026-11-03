@@ -22,7 +22,16 @@ This Power BI project analyzes event performance, bookings, revenue, expenses, a
 - Cleaned and prepared the event dataset.
 - Final cleaned table: `dbo.Royal_Events_Events_Final`.
 - Final cleaned dataset contains 1,209 records.
+## Key Performance Indicators (KPIs)
 
+| KPI | Result |
+|---|---:|
+| Total Bookings | 1,209 |
+| Total Revenue | ₹278.77M |
+| Total Amount Paid | ₹150.21M |
+| Total Event Cost | ₹177.16M |
+| Net Profit | ₹101.61M |
+| Avg Event Duration | 7.06 |
 ## Dashboard Preview
 ![Royal Events Dashboard](Dashboard%20Screenshot.png)
 
