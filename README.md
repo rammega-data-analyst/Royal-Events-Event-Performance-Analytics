@@ -14,8 +14,7 @@ This Power BI project analyzes event performance, bookings, revenue, expenses, a
 - Microsoft Power BI
 - SQL Server
 - SQL
-- Data Cleaning
-- Data Visualization
+
 
 ## Data Cleaning
 - Created the database `RoyalEventsDB`.
@@ -37,7 +36,7 @@ This Power BI project analyzes event performance, bookings, revenue, expenses, a
 
 ## Project Files
 - `Royal_Events_Events_Raw.csv` – Raw event dataset.
-- `Dashboard Screenshot.png` – Power BI dashboard preview.
 
 ## Conclusion
-This project demonstrates the use of SQL Server and Power BI for event data preparation, performance analysis, KPI reporting, and dashboard visualization.
+
+This project highlights the analysis of event operations and business performance using SQL Server and Power BI. The insights gained from the data help evaluate key performance indicators, understand event trends, and support informed business decisions.
