@@ -9,6 +9,8 @@ This Power BI project analyzes event performance, bookings, revenue, expenses, a
 - Understand event categories and customer patterns.
 - Monitor key business performance indicators.
 - Present insights through an interactive Power BI dashboard.
+## Project Files
+- `Royal_Events_Events_Raw.csv` – Raw event dataset.
 
 ## Tools & Technologies
 - Microsoft Power BI
@@ -34,8 +36,6 @@ This Power BI project analyzes event performance, bookings, revenue, expenses, a
 ## Dashboard Preview
 ![Royal Events Dashboard](Dashboard%20Screenshot.png)
 
-## Project Files
-- `Royal_Events_Events_Raw.csv` – Raw event dataset.
 
 ## Conclusion
 
